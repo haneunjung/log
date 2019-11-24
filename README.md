@@ -12,7 +12,8 @@
 * [2019-10-05 : 프로젝트 회의 및 Spring boot 간단한 사용법][2019-10-05]
 * [2019-09-29 : 첫 모임][2019-09-29]
 
-# :bookmark_tabs: Algorithm Study process
+# :fast_forward: Study process
+## Algorithm
 1. 문제 선정 ( 가능한 동일한 문제로 선정 )
 2. 각자의 방법으로 알아서 생각해서 문제 풀이
 3. 각자의 풀이 해설 및 서로 코드 리뷰 ( 더 좋은 방법을 찾는게 베스트 )
