@@ -21,11 +21,11 @@
 4. Todo 정리
 5. 해산
 
-[2019-12-01]:https://github.com/haneunjung/todo/blob/master/log/2019-12-01.md "2019-12-01"
-[2019-11-24]:https://github.com/haneunjung/todo/blob/master/log/2019-11-24.md "2019-11-24"
-[2019-11-17]:https://github.com/haneunjung/todo/blob/master/log/2019-11-17.md "2019-11-17"
-[2019-11-02]:https://github.com/haneunjung/todo/blob/master/log/2019-11-02.md "2019-11-02"
-[2019-10-20]:https://github.com/haneunjung/todo/blob/master/log/2019-10-20.md "2019-10-20"
-[2019-10-12]:https://github.com/haneunjung/todo/blob/master/log/2019-10-12.md "2019-10-12"
-[2019-10-05]:https://github.com/haneunjung/todo/blob/master/log/2019-10-05.md "2019-10-05"
-[2019-09-29]:https://github.com/haneunjung/todo/blob/master/log/2019-09-29.md "2019-09-29"
+[2019-12-01]:https://github.com/haneunjung/todo/blob/master/log/2019-12-01.md "2019-12-01.md"
+[2019-11-24]:https://github.com/haneunjung/todo/blob/master/log/2019-11-24.md "2019-11-24.md"
+[2019-11-17]:https://github.com/haneunjung/todo/blob/master/log/2019-11-17.md "2019-11-17.md"
+[2019-11-02]:https://github.com/haneunjung/todo/blob/master/log/2019-11-02.md "2019-11-02.md"
+[2019-10-20]:https://github.com/haneunjung/todo/blob/master/log/2019-10-20.md "2019-10-20.md"
+[2019-10-12]:https://github.com/haneunjung/todo/blob/master/log/2019-10-12.md "2019-10-12.md"
+[2019-10-05]:https://github.com/haneunjung/todo/blob/master/log/2019-10-05.md "2019-10-05.md"
+[2019-09-29]:https://github.com/haneunjung/todo/blob/master/log/2019-09-29.md "2019-09-29.md"
