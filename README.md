@@ -2,6 +2,7 @@
 * [아이디어 (수시로 자유롭게 추가해주세요!)](https://github.com/haneunjung/todo/blob/master/ideas.md)
 
 # :date: Log
+* [2019-12-01 : 알고리즘 스터디 3주차][2019-12-01]
 * [2019-11-24 : 알고리즘 스터디 2주차(온라인)][2019-11-24]
 * [2019-11-17 : 알고리즘 스터디 1주차][2019-11-17]
 * ~2019-11-09 : (휴식)~
@@ -20,6 +21,7 @@
 4. Todo 정리
 5. 해산
 
+[2019-12-01]:https://github.com/haneunjung/todo/blob/master/log/2019-12-01.md "2019-12-01"
 [2019-11-24]:https://github.com/haneunjung/todo/blob/master/log/2019-11-24.md "2019-11-24"
 [2019-11-17]:https://github.com/haneunjung/todo/blob/master/log/2019-11-17.md "2019-11-17"
 [2019-11-02]:https://github.com/haneunjung/todo/blob/master/log/2019-11-02.md "2019-11-02"
