@@ -2,6 +2,7 @@
 * [아이디어 (수시로 자유롭게 추가해주세요!)](https://github.com/haneunjung/todo/blob/master/ideas.md)
 
 # :date: Log
+* [2019-12-08 : 알고리즘 스터디 4주차][2019-12-08]
 * [2019-12-01 : 알고리즘 스터디 3주차][2019-12-01]
 * [2019-11-24 : 알고리즘 스터디 2주차(온라인)][2019-11-24]
 * [2019-11-17 : 알고리즘 스터디 1주차][2019-11-17]
@@ -18,9 +19,11 @@
 1. 문제 선정 ( 가능한 동일한 문제로 선정 )
 2. 각자의 방법으로 알아서 생각해서 문제 풀이
 3. 각자의 풀이 해설 및 서로 코드 리뷰 ( 더 좋은 방법을 찾는게 베스트 )
+   - 각자의 프로젝트에 PR이나 코드 자체로로 올리고 코멘트 달아서 진행하면 효율적으로 될 것 같음
 4. Todo 정리
 5. 해산
 
+[2019-12-08]:https://github.com/haneunjung/todo/blob/master/log/2019-12-08.md "2019-12-08.md"
 [2019-12-01]:https://github.com/haneunjung/todo/blob/master/log/2019-12-01.md "2019-12-01.md"
 [2019-11-24]:https://github.com/haneunjung/todo/blob/master/log/2019-11-24.md "2019-11-24.md"
 [2019-11-17]:https://github.com/haneunjung/todo/blob/master/log/2019-11-17.md "2019-11-17.md"
