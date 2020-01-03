@@ -1,7 +1,8 @@
 # :bulb: 아이디어 모음
 * [아이디어 (수시로 자유롭게 추가해주세요!)](https://github.com/haneunjung/todo/blob/master/ideas.md)
 
-# :date: Lo
+# :date: Log
+* [2020-01-04 : 개인 일정 종료 및 팀 프로젝트 구상(4인)][2020-01-04]
 * ~2019-12-28 : (일정 취소)~
 * [2019-12-21 : 알고리즘 스터디5주차(온라인)][2019-12-21]
 * ~2019-12-15 : (일정 취소)~
@@ -26,6 +27,7 @@
 4. Todo 정리
 5. 해산
 
+[2020-01-04]:https://github.com/haneunjung/todo/blob/master/log/2020-01-04.md "2020-01-04.md"
 [2019-12-21]:https://github.com/haneunjung/todo/blob/master/log/2019-12-21.md "2019-12-21.md"
 [2019-12-08]:https://github.com/haneunjung/todo/blob/master/log/2019-12-08.md "2019-12-08.md"
 [2019-12-01]:https://github.com/haneunjung/todo/blob/master/log/2019-12-01.md "2019-12-01.md"
