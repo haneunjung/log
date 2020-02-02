@@ -2,6 +2,7 @@
 * [아이디어 (수시로 자유롭게 추가해주세요!)](https://github.com/haneunjung/todo/blob/master/ideas.md)
 
 # :date: Log
+* [2020-02-02 : 진행 상황 공유, 각자 코딩][2020-02-02]
 * ~~2020-01-25 : 모임 없음, 새해복 많이 받길~~
 * [2020-01-18 : Temporage, 각자 코딩][2020-01-18]
 * [2020-01-11 : 숙제 검사, 1번째 토이프로젝트][2020-01-11]
@@ -21,6 +22,7 @@
 * [2019-10-05 : 프로젝트 회의 및 Spring boot 간단한 사용법][2019-10-05]
 * [2019-09-29 : 첫 모임][2019-09-29]
 
+
 # :fast_forward: Study process
 ## Algorithm
 1. 문제 선정 ( 가능한 동일한 문제로 선정 )
@@ -30,6 +32,8 @@
 4. Todo 정리
 5. 해산
 
+
+[2020-02-02]:https://github.com/haneunjung/todo/blob/master/log/2020-02-02.md "2020-02-02.md"
 [2020-01-18]:https://github.com/haneunjung/todo/blob/master/log/2020-01-18.md "2020-01-18.md"
 [2020-01-11]:https://github.com/haneunjung/todo/blob/master/log/2020-01-11.md "2020-01-11.md"
 [2020-01-04]:https://github.com/haneunjung/todo/blob/master/log/2020-01-04.md "2020-01-04.md"
