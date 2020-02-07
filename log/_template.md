@@ -1,4 +1,4 @@
-__2020년 00월 00일 (Mon)__
+Written : __2020년 00월 00일 (Mon)__
 
 <!-- member link here -->
 [정욱]: https://github.com/bin-e
@@ -17,7 +17,11 @@ __2020년 00월 00일 (Mon)__
 > Contents
 ### Mission (Done)
 > Contents
+### Memo ... etc.
+> Contents
 
 ## :dart: Next week
 ### Mission (To-do)
+> Contents
+### Memo ... etc.
 > Contents
