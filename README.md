@@ -2,6 +2,7 @@
 * [아이디어 (수시로 자유롭게 추가해주세요!)](https://github.com/haneunjung/todo/blob/master/ideas.md)
 
 # :date: Log
+* [2020-02-16 : Project-temporage 5주차][2020-02-16]
 * [2020-02-08 : Project-temporage 4주차][2020-02-08]
 * [2020-02-02 : 진행 상황 공유, 각자 코딩][2020-02-02]
 * ~~2020-01-25 : 모임 없음, 새해복 많이 받길~~
@@ -40,6 +41,7 @@
 5. 해산
 
 
+[2020-02-16]:https://github.com/haneunjung/todo/blob/master/log/2020-02-16.md "2020-02-16.md"
 [2020-02-08]:https://github.com/haneunjung/todo/blob/master/log/2020-02-08.md "2020-02-08.md"
 [2020-02-02]:https://github.com/haneunjung/todo/blob/master/log/2020-02-02.md "2020-02-02.md"
 [2020-01-18]:https://github.com/haneunjung/todo/blob/master/log/2020-01-18.md "2020-01-18.md"
