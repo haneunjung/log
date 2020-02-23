@@ -2,6 +2,7 @@
 * [아이디어 (수시로 자유롭게 추가해주세요!)](https://github.com/haneunjung/todo/blob/master/ideas.md)
 
 # :date: Log
+* ~~[2020-02-23 : (코로나로 일정 취소)][2020-02-23]~~
 * [2020-02-16 : Project-temporage 5주차][2020-02-16]
 * [2020-02-08 : Project-temporage 4주차][2020-02-08]
 * [2020-02-02 : 진행 상황 공유, 각자 코딩][2020-02-02]
